@@ -26,14 +26,23 @@ Leverage isinstance() and class inheritance checks for robust type handling.
 Implement multiple inheritance and understand Python’s method resolution order (MRO) to manage complex class relationships.
 
 **Basics of Class and OOPs:** Learn the foundational concepts of Object-Oriented Programming, including how to define and use classes in Python to model real-world objects.
+
 **Class Method and self:** Understand the role of self in class methods and how class methods differ from instance methods in accessing and modifying class properties.
+
 **Inheritance:** Explore how classes can inherit attributes and methods from other classes, enabling code reusability and logical class hierarchies.
+
 **Encapsulation:** Discover how to bundle data and methods within a class, and control access to the data by using public, protected, and private attributes.
+
 **Polymorphism:** Learn how objects of different classes can share the same method name, allowing for flexible and reusable code through method overriding and interface implementation.
+
 **Class Variables:** Understand the difference between instance and class variables and how class variables are shared across all instances of a class.
+
 **Static Method:** Study static methods, which belong to the class rather than any instance and do not require self or cls as parameters.
+
 **Property Decorators:** Explore Python’s @property decorator for creating managed attributes, enabling a more Pythonic way to define getters, setters, and deleters.
+
 **Class Inheritance and isinstance() Functions:** Delve into the concept of checking an object’s type using isinstance() and how it relates to class inheritance.
+
 **Multiple Inheritance:** Understand how a class can inherit from multiple parent classes, the benefits of this approach, and how Python handles method resolution in such scenarios.
 
 # Conclusion: 
